@@ -5,10 +5,8 @@
 ---
 
 ### What I'm Building
-* **SnapShare:** A real-time, peer-to-peer file sharing web application built with **Next.js** and **WebSockets**.
-* **Terminal Dash:** A keyboard-driven, TUI (Terminal User Interface) built with Go.
-* **Roster Management (Proof of Concept):** A custom **.NET MVC** and **SQL Server** solution for hospitality work scheduling.
-* **Mini-Scripts:** A collection of small scripts that I've made / will make over the years.
+* **SnapShare:**
+* **Unemployedihfy**
 
 ### My Stack
 * **Languages:** JavaScript (ES6+), C#, Python, TypeScript
