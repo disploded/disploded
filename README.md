@@ -5,7 +5,7 @@
 ---
 
 ### What I'm Building
-* **SnapShare:**
+* **SnapShare**
 * **Unemployedihfy**
 
 ### My Stack
