@@ -1,6 +1,6 @@
-# Hi, I'm Alper!
+# Hi, I'm Alper
 
-**CompSci Student @ The University of Auckland** | **Full-Stack Development** |
+**CompSci Student** | **Full-Stack Development** |
 **Owner of Puffball**
 
 ---
